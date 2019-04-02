@@ -1,0 +1,18 @@
+{
+    "name": "qing42/yii2-upload",
+    "description": "yii2 framework upload widget",
+    "authors": [
+        {
+            "name": "qing"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qing42\\": "src/"
+        }
+    }
+}
